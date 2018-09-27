@@ -1,1 +1,2 @@
 *.apple.com
+*.samsung.com
